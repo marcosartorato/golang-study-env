@@ -1,0 +1,19 @@
+# General
+.git
+.gitignore
+.DS_Store
+
+# Go artifacts
+**/*.out
+**/*.test
+**/*.cover
+coverage.out
+coverage.html
+
+# misc (if present)
+dist
+build
+
+# IDE
+.vscode
+.idea
