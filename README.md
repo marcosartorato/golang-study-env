@@ -5,4 +5,5 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 
 ## Package Examples
 
-- [sync](./sync/README.md): Synchronization primitives for concurrent programming in Go.
+- [sync](./cmd/sync/README.md): Synchronization primitives for concurrent programming in Go.
+- [sync/atomic](./cmd/sync-atomic/README.md): Low-level atomic memory primitives for safe concurrent programming.

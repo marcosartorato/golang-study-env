@@ -10,3 +10,7 @@ The [`sync`](https://pkg.go.dev/sync) package provides basic synchronization pri
 - **`sync.RWMutex`**: Like `Mutex`, but allows multiple readers or one writer.
 
 See the code examples in this folder for practical usage.
+
+---
+
+[Go Back](../../README.md)
