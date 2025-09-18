@@ -1,2 +1,8 @@
 # golang-study-env
-An environment to study golang related topics
+
+This repository contains small, self-contained examples showing how to use different Go packages.  
+Each package has its own folder with a `main.go` file that demonstrates key functionality.
+
+## Package Examples
+
+- [sync](./sync/README.md): Synchronization primitives for concurrent programming in Go.
