@@ -9,3 +9,4 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 - [sync/atomic](./cmd/sync-atomic/README.md): Low-level atomic memory primitives for safe concurrent programming.
 - [context](./cmd/context/README.md): Deadlines, cancellation signals, and other request-scoped values across API boundaries and between processes.
 - [net/http](./cmd/net-http/README.md): HTTP client and server implementation.
+- [encoding/json](./cmd/encoding-json/README.md): Functions for encoding (marshaling) Go values to JSON and decoding (unmarshaling) JSON data into Go values.
