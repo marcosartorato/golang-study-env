@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/marcosartorato/golang-study-env/compare/v1.2.0...v1.3.0) (2025-09-19)
+
+
+### Features
+
+* add examples about the net/http package ([f367c6f](https://github.com/marcosartorato/golang-study-env/commit/f367c6ffe4ee02089f31b024048b8dfbb69304e5))
+
 # [1.2.0](https://github.com/marcosartorato/golang-study-env/compare/v1.1.0...v1.2.0) (2025-09-19)
 
 
