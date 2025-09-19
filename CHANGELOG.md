@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/marcosartorato/golang-study-env/compare/v1.1.0...v1.2.0) (2025-09-19)
+
+
+### Features
+
+* add examples about the context package ([6456e11](https://github.com/marcosartorato/golang-study-env/commit/6456e11e67e5c9777262a83174f69f48a573f46f))
+
 # [1.1.0](https://github.com/marcosartorato/golang-study-env/compare/v1.0.0...v1.1.0) (2025-09-18)
 
 
