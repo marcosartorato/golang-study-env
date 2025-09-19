@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/marcosartorato/golang-study-env/compare/v1.3.0...v1.4.0) (2025-09-19)
+
+
+### Features
+
+* add examples about the encoding/json package ([d48d14a](https://github.com/marcosartorato/golang-study-env/commit/d48d14aa0b3909ffdcd20b66b34f3a60a46b9146))
+
 # [1.3.0](https://github.com/marcosartorato/golang-study-env/compare/v1.2.0...v1.3.0) (2025-09-19)
 
 
