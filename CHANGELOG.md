@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/marcosartorato/golang-study-env/compare/v1.4.0...v1.5.0) (2025-09-19)
+
+
+### Features
+
+* add examples about the reflect package ([a4ef905](https://github.com/marcosartorato/golang-study-env/commit/a4ef905ed03131acaacb2b4b4f9993469fda7177))
+
 # [1.4.0](https://github.com/marcosartorato/golang-study-env/compare/v1.3.0...v1.4.0) (2025-09-19)
 
 
