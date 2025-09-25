@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/marcosartorato/golang-study-env/compare/v1.6.0...v1.7.0) (2025-09-25)
+
+
+### Features
+
+* add examples about the errors package ([ef8483e](https://github.com/marcosartorato/golang-study-env/commit/ef8483e3c0d9350b73e5601381d76cd5a63500c6))
+
 # [1.6.0](https://github.com/marcosartorato/golang-study-env/compare/v1.5.0...v1.6.0) (2025-09-25)
 
 
