@@ -11,6 +11,7 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 - [net/http](./cmd/net-http/README.md): HTTP client and server implementation.
 - [encoding/json](./cmd/encoding-json/README.md): Functions for encoding (marshaling) Go values to JSON and decoding (unmarshaling) JSON data into Go values.
 - [reflect](./cmd/reflect/README.md): Implements run-time reflection, allowing a program to manipulate objects with arbitrary types.
+- [testing](./cmd/testing/README.md): Support for automated testing of Go packages. It's intended to be used in concert with the `go test` command.
 
 ## Cites
 
