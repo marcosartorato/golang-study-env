@@ -13,6 +13,7 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 - [encoding/json](./cmd/encoding-json/README.md): Functions for encoding (marshaling) Go values to JSON and decoding (unmarshaling) JSON data into Go values.
 - [reflect](./cmd/reflect/README.md): Implementation of run-time reflection, allowing a program to manipulate objects with arbitrary types.
 - [testing](./cmd/testing/README.md): Support for automated testing of Go packages. It's intended to be used in concert with the `go test` command.
+- [time](./cmd/time/README.md): Functionalities for measuring and displaying time.
 - [errors](./cmd/errors/README.md): Functions to manipulate errors.
 
 ## Cites
