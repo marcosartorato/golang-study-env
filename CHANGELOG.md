@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/marcosartorato/golang-study-env/compare/v1.7.0...v1.8.0) (2025-09-26)
+
+
+### Features
+
+* add examples about the net package ([04b4c38](https://github.com/marcosartorato/golang-study-env/commit/04b4c38f500781ef2ca70da043994a2d3e73807a))
+
 # [1.7.0](https://github.com/marcosartorato/golang-study-env/compare/v1.6.0...v1.7.0) (2025-09-25)
 
 
