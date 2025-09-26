@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/marcosartorato/golang-study-env/compare/v1.8.0...v1.9.0) (2025-09-26)
+
+
+### Features
+
+* add examples about the time package ([eabb1b3](https://github.com/marcosartorato/golang-study-env/commit/eabb1b3732bf6fa97f8b26a3bd74821832232a4e))
+
 # [1.8.0](https://github.com/marcosartorato/golang-study-env/compare/v1.7.0...v1.8.0) (2025-09-26)
 
 
