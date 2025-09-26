@@ -16,6 +16,7 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 - [time](./cmd/time/README.md): Functionalities for measuring and displaying time.
 - [errors](./cmd/errors/README.md): Functions to manipulate errors.
 - [math](./cmd/math/README.md): Basic constants and mathematical functions.
+- [math/rand](./cmd/math-rand/README.md): Pseudorandom numbers. It should not be used for security-sensitive work.
 
 ## Cites
 
