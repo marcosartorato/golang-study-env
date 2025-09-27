@@ -1,13 +1,20 @@
 # Go `crypto` (curated)
 
+<<<<<<< HEAD
 The top-level [`crypto`](https://pkg.go.dev/crypto) package defines common interfaces (`Signer`, `PublicKey`) and hash IDs, while real primitives live in subpackages.
+=======
+Package [`crypto`](https://pkg.go.dev/crypto)collects common cryptographic constants.
+>>>>>>> 27d9039 (feat: add examples about the crypto package)
 
 ## Common Functions
 
 - Secure RNG: `crypto/rand.Read`
 - Hashing: `crypto.SHA256.New()`, `crypto/sha256`
+<<<<<<< HEAD
 - HMAC: `crypto/hmac` + `sha256.New`
 - Sign/verify: `crypto/ed25519` (shows `crypto.Signer` via `PrivateKey`)
+=======
+>>>>>>> 27d9039 (feat: add examples about the crypto package)
 
 
 ### Secure Random Number Generator
@@ -45,6 +52,7 @@ fmt.Printf("%x", h.Sum(nil))        // read the hash with Sum(nil)
 ```
 
 
+<<<<<<< HEAD
 ### HMAC
 
 Package `crypto/hmac` implements the Keyed-Hash Message Authentication Code (HMAC).
@@ -70,6 +78,8 @@ func VerifyWithOptions(publicKey PublicKey, message, sig []byte, opts *Options) 
 ```
 
 
+=======
+>>>>>>> 27d9039 (feat: add examples about the crypto package)
 ---
 
 [Go Back](../../README.md)
