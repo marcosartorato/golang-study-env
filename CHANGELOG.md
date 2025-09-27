@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/marcosartorato/golang-study-env/compare/v1.14.0...v1.15.0) (2025-09-27)
+
+
+### Features
+
+* add examples for the bytes package ([662d243](https://github.com/marcosartorato/golang-study-env/commit/662d243f2b8997f3a58534e833b85f1bf8479377))
+
 # [1.14.0](https://github.com/marcosartorato/golang-study-env/compare/v1.13.0...v1.14.0) (2025-09-27)
 
 
