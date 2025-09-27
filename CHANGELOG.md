@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/marcosartorato/golang-study-env/compare/v1.16.0...v1.17.0) (2025-09-27)
+
+
+### Features
+
+* add examples for the database/sql package ([57e024c](https://github.com/marcosartorato/golang-study-env/commit/57e024c98eb582ec815b7676daef006b9f6ba102))
+
 # [1.16.0](https://github.com/marcosartorato/golang-study-env/compare/v1.15.0...v1.16.0) (2025-09-27)
 
 
