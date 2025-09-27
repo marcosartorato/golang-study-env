@@ -1,3 +1,12 @@
+# [1.10.0](https://github.com/marcosartorato/golang-study-env/compare/v1.9.0...v1.10.0) (2025-09-27)
+
+
+### Features
+
+* add examples about the crypto package ([3cf9458](https://github.com/marcosartorato/golang-study-env/commit/3cf9458f81a500a0196bc0139046c7ea04c4e1e4))
+* add examples about the math package ([8ccc76a](https://github.com/marcosartorato/golang-study-env/commit/8ccc76a10fe761f79f0e80cd8156ffc20d8f2e75))
+* add examples about the math/rand package ([ae2864b](https://github.com/marcosartorato/golang-study-env/commit/ae2864b1ccb8fdfec3661b852cd482d5ebc9e48f))
+
 # [1.10.0](https://github.com/marcosartorato/golang-study-env/compare/v1.9.0...v1.10.0) (2025-09-26)
 
 
