@@ -6,6 +6,7 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 ## Package Examples
 
 - [context](./cmd/context/README.md): Deadlines, cancellation signals, and other request-scoped values across API boundaries and between processes.
+- [crypto](./cmd/crypto/README.md): Common cryptographic constants and functions.
 - [encoding/json](./cmd/encoding-json/README.md): Functions for encoding (marshaling) Go values to JSON and decoding (unmarshaling) JSON data into Go values.
 - [errors](./cmd/errors/README.md): Functions to manipulate errors.
 - [math](./cmd/math/README.md): Basic constants and mathematical functions.
