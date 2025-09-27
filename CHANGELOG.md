@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/marcosartorato/golang-study-env/compare/v1.12.0...v1.13.0) (2025-09-27)
+
+
+### Features
+
+* add examples for the bufio package ([38a9c04](https://github.com/marcosartorato/golang-study-env/commit/38a9c041dc0e252c4ee465b780d8adcc3e59f36b))
+
 # [1.12.0](https://github.com/marcosartorato/golang-study-env/compare/v1.11.0...v1.12.0) (2025-09-27)
 
 
