@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/marcosartorato/golang-study-env/compare/v1.13.0...v1.14.0) (2025-09-27)
+
+
+### Features
+
+* add examples for the strings package ([10691e8](https://github.com/marcosartorato/golang-study-env/commit/10691e8fcc6ad661860d3a32d03ff9c4b54b9997))
+
 # [1.13.0](https://github.com/marcosartorato/golang-study-env/compare/v1.12.0...v1.13.0) (2025-09-27)
 
 
