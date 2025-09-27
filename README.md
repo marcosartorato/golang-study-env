@@ -16,6 +16,7 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 - [net/http](./cmd/net-http/README.md): HTTP client and server implementation.
 - [os](./cmd/os/README.md): Platform-independent interface to operating system functionality. 
 - [reflect](./cmd/reflect/README.md): Implementation of run-time reflection, allowing a program to manipulate objects with arbitrary types.
+- [strings](./cmd/strings/README.md): Simple functions to manipulate UTF-8 encoded strings.
 - [sync](./cmd/sync/README.md): Synchronization primitives for concurrent programming in Go.
 - [sync/atomic](./cmd/sync-atomic/README.md): Low-level atomic memory primitives for safe concurrent programming.
 - [testing](./cmd/testing/README.md): Support for automated testing of Go packages. It's intended to be used in concert with the `go test` command.
