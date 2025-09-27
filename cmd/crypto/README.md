@@ -1,20 +1,11 @@
 # Go `crypto` (curated)
 
-<<<<<<< HEAD
-The top-level [`crypto`](https://pkg.go.dev/crypto) package defines common interfaces (`Signer`, `PublicKey`) and hash IDs, while real primitives live in subpackages.
-=======
 Package [`crypto`](https://pkg.go.dev/crypto)collects common cryptographic constants.
->>>>>>> 27d9039 (feat: add examples about the crypto package)
 
 ## Common Functions
 
 - Secure RNG: `crypto/rand.Read`
 - Hashing: `crypto.SHA256.New()`, `crypto/sha256`
-<<<<<<< HEAD
-- HMAC: `crypto/hmac` + `sha256.New`
-- Sign/verify: `crypto/ed25519` (shows `crypto.Signer` via `PrivateKey`)
-=======
->>>>>>> 27d9039 (feat: add examples about the crypto package)
 
 
 ### Secure Random Number Generator
@@ -52,34 +43,6 @@ fmt.Printf("%x", h.Sum(nil))        // read the hash with Sum(nil)
 ```
 
 
-<<<<<<< HEAD
-### HMAC
-
-Package `crypto/hmac` implements the Keyed-Hash Message Authentication Code (HMAC).
-
-```go
-func New(h func() hash.Hash, key []byte) hash.Hash
-```
-
-The constructor uses different arguments but the write/read operations are similar to the ones for SHA256.
-
-`hmac.Equal` compares two MACs for equality without leaking timing information.
-
-
-### ED25519
-
-```go
-// GenerateKey generates a public/private key pair using entropy from rand.
-func GenerateKey(rand io.Reader) (PublicKey, PrivateKey, error)
-// Sign signs the given message with priv. rand is ignored and can be nil.
-func (priv PrivateKey) Sign(rand io.Reader, message []byte, opts crypto.SignerOpts) (signature []byte, err error)
-// VerifyWithOptions reports whether sig is a valid signature of message by publicKey.
-func VerifyWithOptions(publicKey PublicKey, message, sig []byte, opts *Options) error
-```
-
-
-=======
->>>>>>> 27d9039 (feat: add examples about the crypto package)
 ---
 
 [Go Back](../../README.md)
