@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/marcosartorato/golang-study-env/compare/v1.15.0...v1.16.0) (2025-09-27)
+
+
+### Features
+
+* add examples for the encoding-binary package ([061ffb2](https://github.com/marcosartorato/golang-study-env/commit/061ffb2c880276ecaa9f1ac6364a5e3a27186bb5))
+
 # [1.15.0](https://github.com/marcosartorato/golang-study-env/compare/v1.14.0...v1.15.0) (2025-09-27)
 
 
