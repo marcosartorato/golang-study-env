@@ -13,6 +13,7 @@ Each package has its own folder with a `main.go` file that demonstrates key func
 - [math/rand](./cmd/math-rand/README.md): Pseudorandom numbers. It should not be used for security-sensitive work.
 - [net](./cmd/net/README.md): A portable interface for network I/O, including TCP/IP, UDP, domain name resolution, and Unix domain sockets.
 - [net/http](./cmd/net-http/README.md): HTTP client and server implementation.
+- [os](./cmd/os/README.md): Platform-independent interface to operating system functionality. 
 - [reflect](./cmd/reflect/README.md): Implementation of run-time reflection, allowing a program to manipulate objects with arbitrary types.
 - [sync](./cmd/sync/README.md): Synchronization primitives for concurrent programming in Go.
 - [sync/atomic](./cmd/sync-atomic/README.md): Low-level atomic memory primitives for safe concurrent programming.
