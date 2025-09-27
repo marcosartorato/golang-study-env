@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/marcosartorato/golang-study-env/compare/v1.11.0...v1.12.0) (2025-09-27)
+
+
+### Features
+
+* add examples for the os package ([16a0ee1](https://github.com/marcosartorato/golang-study-env/commit/16a0ee11ecb12f64ea84a7435c90097e971f45a6))
+
 # [1.11.0](https://github.com/marcosartorato/golang-study-env/compare/v1.10.0...v1.11.0) (2025-09-27)
 
 
