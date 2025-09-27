@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/marcosartorato/golang-study-env/compare/v1.10.0...v1.11.0) (2025-09-27)
+
+
+### Features
+
+* simplify examples for the crypto package ([83b55a8](https://github.com/marcosartorato/golang-study-env/commit/83b55a83f68a7031e71dd9239c382363eb9374aa))
+
 # [1.10.0](https://github.com/marcosartorato/golang-study-env/compare/v1.9.0...v1.10.0) (2025-09-27)
 
 
